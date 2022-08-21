@@ -48,6 +48,9 @@
     <type fullname="LimitedInputControls.FreeLookMouseDown" preserve="all" />
     <type fullname="LimitedInputControls.InputReader" preserve="all" />
   </assembly>
+  <assembly fullname="LimitedInputManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="LimitedInputManager.GameManager" preserve="all" />
+  </assembly>
   <assembly fullname="LimitedInputStateMachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="LimitedInputStateMachine.EnemyStateMachine" preserve="all" />
     <type fullname="LimitedInputStateMachine.PlayerStateMachine" preserve="all" />
