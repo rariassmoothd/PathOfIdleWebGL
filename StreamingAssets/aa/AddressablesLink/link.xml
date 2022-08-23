@@ -1,7 +1,4 @@
 <linker>
-  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="LimitedInputUtilities.LayoutGroupPositionFix" preserve="all" />
-  </assembly>
   <assembly fullname="Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Cinemachine.CinemachineBrain" preserve="all" />
     <type fullname="Cinemachine.CinemachineComposer" preserve="all" />
@@ -55,11 +52,19 @@
     <type fullname="LimitedInputStateMachine.EnemyStateMachine" preserve="all" />
     <type fullname="LimitedInputStateMachine.PlayerStateMachine" preserve="all" />
   </assembly>
+  <assembly fullname="LimitedInputUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="LimitedInputUI.UnitHealthBar" preserve="all" />
+  </assembly>
   <assembly fullname="LimitedInputUtilities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DamageText" preserve="all" />
+    <type fullname="DamageTextSpawner" preserve="all" />
+    <type fullname="DisableGameObject" preserve="all" />
     <type fullname="LimitedInputUtilities.ChromaticVolumeController" preserve="all" />
     <type fullname="LimitedInputUtilities.FaceCamera" preserve="all" />
     <type fullname="LimitedInputUtilities.FPSCounter" preserve="all" />
+    <type fullname="LimitedInputUtilities.LayoutGroupPositionFix" preserve="all" />
     <type fullname="LimitedInputUtilities.PlayRandomAudio" preserve="all" />
+    <type fullname="LimitedInputUtilities.PlayVideo" preserve="all" />
     <type fullname="LimitedInputUtilities.PressEvent" preserve="all" />
     <type fullname="LimitedInputUtilities.TextureSwapper" preserve="all" />
     <type fullname="LimitedInputUtilities.UIParticleRenderer" preserve="all" />
@@ -126,6 +131,7 @@
     <type fullname="UnityEngine.AI.NavMeshData" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
     <type fullname="UnityEngine.AnimationClip" preserve="all" />
     <type fullname="UnityEngine.Animator" preserve="all" />
     <type fullname="UnityEngine.AnimatorOverrideController" preserve="all" />
@@ -180,15 +186,21 @@
     <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
     <type fullname="UnityEngine.UI.Mask" preserve="all" />
     <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
     <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.Video.VideoClip" preserve="all" />
     <type fullname="UnityEngine.Video.VideoPlayer" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextCoreFontEngineModule">
