@@ -52,6 +52,9 @@
     <type fullname="LimitedInputStateMachine.EnemyStateMachine" preserve="all" />
     <type fullname="LimitedInputStateMachine.PlayerStateMachine" preserve="all" />
   </assembly>
+  <assembly fullname="LimitedInputStats, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="LimitedInputStats.StatController" preserve="all" />
+  </assembly>
   <assembly fullname="LimitedInputUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="LimitedInputUI.UnitHealthBar" preserve="all" />
   </assembly>
