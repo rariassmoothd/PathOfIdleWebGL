@@ -57,11 +57,16 @@
     <type fullname="LimitedInputStats.PassiveTreeUIController" preserve="all" />
     <type fullname="LimitedInputStats.StatController" preserve="all" />
     <type fullname="LimitedInputStats.TagController" preserve="all" />
+    <type fullname="LimitedInputStats.ToolTipUI" preserve="all" />
+    <type fullname="MouseEnterExitEvents" preserve="all" />
     <type fullname="LimitedInputStats.PassiveNode" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="LimitedInputUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="LimitedInputUI.GameMenuButtonAnimation" preserve="all" />
+    <type fullname="LimitedInputUI.GameMenuPanelManager" preserve="all" />
     <type fullname="LimitedInputUI.UIElementSound" preserve="all" />
     <type fullname="LimitedInputUI.UnitHealthBar" preserve="all" />
+    <type fullname="LimitedInputUI.GameMenuPanelManager/PanelItem" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="LimitedInputUtilities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="DamageText" preserve="all" />
@@ -168,7 +173,9 @@
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
