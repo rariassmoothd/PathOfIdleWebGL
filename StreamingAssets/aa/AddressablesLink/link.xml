@@ -53,12 +53,14 @@
     <type fullname="LimitedInputStateMachine.PlayerStateMachine" preserve="all" />
   </assembly>
   <assembly fullname="LimitedInputStats, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="LimitedInputStats.PassiveNodeLine" preserve="all" />
     <type fullname="LimitedInputStats.PassiveNodeUI" preserve="all" />
     <type fullname="LimitedInputStats.PassiveTreeUIController" preserve="all" />
     <type fullname="LimitedInputStats.StatController" preserve="all" />
     <type fullname="LimitedInputStats.TagController" preserve="all" />
     <type fullname="LimitedInputStats.ToolTipUI" preserve="all" />
     <type fullname="MouseEnterExitEvents" preserve="all" />
+    <type fullname="PlayerStatsUI" preserve="all" />
     <type fullname="LimitedInputStats.PassiveNode" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="LimitedInputUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
