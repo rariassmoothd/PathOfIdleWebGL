@@ -45,11 +45,13 @@
     <type fullname="LimitedInputControls.InputReader" preserve="all" />
   </assembly>
   <assembly fullname="LimitedInputManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="LimitedInputManager.ChallengeManager" preserve="all" />
     <type fullname="LimitedInputManager.GameManager" preserve="all" />
     <type fullname="LimitedInputManager.UIManager" preserve="all" />
   </assembly>
   <assembly fullname="LimitedInputStateMachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="LimitedInputStateMachine.EnemyStateMachine" preserve="all" />
+    <type fullname="LimitedInputStateMachine.PlayerAiStateMachine" preserve="all" />
     <type fullname="LimitedInputStateMachine.PlayerStateMachine" preserve="all" />
   </assembly>
   <assembly fullname="LimitedInputStats, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
