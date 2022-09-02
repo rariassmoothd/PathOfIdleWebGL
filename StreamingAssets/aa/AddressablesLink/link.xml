@@ -46,6 +46,7 @@
   </assembly>
   <assembly fullname="LimitedInputManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="LimitedInputManager.ChallengeManager" preserve="all" />
+    <type fullname="LimitedInputManager.CharacterManager" preserve="all" />
     <type fullname="LimitedInputManager.GameManager" preserve="all" />
     <type fullname="LimitedInputManager.UIManager" preserve="all" />
   </assembly>
