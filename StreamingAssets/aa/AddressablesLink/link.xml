@@ -59,6 +59,7 @@
     <type fullname="LimitedInputStats.PassiveNodeLine" preserve="all" />
     <type fullname="LimitedInputStats.PassiveNodeUI" preserve="all" />
     <type fullname="LimitedInputStats.PassiveTreeUIController" preserve="all" />
+    <type fullname="LimitedInputStats.SkillController" preserve="all" />
     <type fullname="LimitedInputStats.StatController" preserve="all" />
     <type fullname="LimitedInputStats.TagController" preserve="all" />
     <type fullname="LimitedInputStats.ToolTipUI" preserve="all" />
