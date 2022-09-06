@@ -34,11 +34,14 @@
     <type fullname="LimitedInputCombat.ForceReceiver" preserve="all" />
     <type fullname="LimitedInputCombat.Health" preserve="all" />
     <type fullname="LimitedInputCombat.HitHandler" preserve="all" />
+    <type fullname="LimitedInputCombat.Projectile" preserve="all" />
     <type fullname="LimitedInputCombat.Ragdoll" preserve="all" />
     <type fullname="LimitedInputCombat.Target" preserve="all" />
     <type fullname="LimitedInputCombat.Targeter" preserve="all" />
     <type fullname="LimitedInputCombat.WeaponDamage" preserve="all" />
     <type fullname="LimitedInputCombat.Attack" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputCombat.Damage" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputCombat.DamageType" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="LimitedInputControls, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="LimitedInputControls.FreeLookMouseDown" preserve="all" />
@@ -65,7 +68,12 @@
     <type fullname="LimitedInputStats.ToolTipUI" preserve="all" />
     <type fullname="MouseEnterExitEvents" preserve="all" />
     <type fullname="PlayerStatsUI" preserve="all" />
+    <type fullname="LimitedInputStats.ActiveSkill" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.JsonSkill" preserve="nothing" serialized="true" />
     <type fullname="LimitedInputStats.PassiveNode" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.StatRequirements" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.StaticSkillInfo" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.SupportSkill" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="LimitedInputUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="LimitedInputUI.GameMenuButtonAnimation" preserve="all" />
@@ -179,6 +187,7 @@
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.TextAsset" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.TrailRenderer" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
     <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
