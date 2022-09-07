@@ -94,6 +94,7 @@
     <type fullname="LimitedInputUtilities.PlayVideo" preserve="all" />
     <type fullname="LimitedInputUtilities.TextureSwapper" preserve="all" />
     <type fullname="LimitedInputUtilities.UIParticleRenderer" preserve="all" />
+    <type fullname="LimitedInputUtilities.VisualSwapper" preserve="all" />
   </assembly>
   <assembly fullname="ThirdParty, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.UI.Extensions.UILineRenderer" preserve="all" />
