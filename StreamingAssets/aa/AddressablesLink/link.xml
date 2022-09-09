@@ -59,6 +59,13 @@
     <type fullname="LimitedInputStateMachine.PlayerStateMachine" preserve="all" />
   </assembly>
   <assembly fullname="LimitedInputStats, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="LimitedInputStats.InventoryController" preserve="all" />
+    <type fullname="LimitedInputStats.InventoryDragItem" preserve="all" />
+    <type fullname="LimitedInputStats.InventorySlotUI" preserve="all" />
+    <type fullname="LimitedInputStats.InventorySlotUIIcon" preserve="all" />
+    <type fullname="LimitedInputStats.InventoryUIController" preserve="all" />
+    <type fullname="LimitedInputStats.ItemController" preserve="all" />
+    <type fullname="LimitedInputStats.ModController" preserve="all" />
     <type fullname="LimitedInputStats.PassiveNodeLine" preserve="all" />
     <type fullname="LimitedInputStats.PassiveNodeUI" preserve="all" />
     <type fullname="LimitedInputStats.PassiveTreeUIController" preserve="all" />
@@ -208,10 +215,13 @@
     <type fullname="UnityEngine.SphereCollider" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
     <type fullname="UnityEngine.UI.Button" preserve="all" />
     <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
     <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
     <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
     <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
@@ -221,6 +231,8 @@
     <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
     <type fullname="UnityEngine.UI.Slider" preserve="all" />
     <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
