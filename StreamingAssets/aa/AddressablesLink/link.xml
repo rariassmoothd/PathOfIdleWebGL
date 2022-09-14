@@ -78,12 +78,7 @@
     <type fullname="LimitedInputStats.ToolTipUI" preserve="all" />
     <type fullname="MouseEnterExitEvents" preserve="all" />
     <type fullname="PlayerStatsUI" preserve="all" />
-    <type fullname="LimitedInputStats.ActiveSkill" preserve="nothing" serialized="true" />
-    <type fullname="LimitedInputStats.JsonSkill" preserve="nothing" serialized="true" />
     <type fullname="LimitedInputStats.PassiveNode" preserve="nothing" serialized="true" />
-    <type fullname="LimitedInputStats.StatRequirements" preserve="nothing" serialized="true" />
-    <type fullname="LimitedInputStats.StaticSkillInfo" preserve="nothing" serialized="true" />
-    <type fullname="LimitedInputStats.SupportSkill" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="LimitedInputUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="LimitedInputUI.GameMenuButtonAnimation" preserve="all" />
