@@ -59,6 +59,9 @@
     <type fullname="LimitedInputStateMachine.PlayerStateMachine" preserve="all" />
   </assembly>
   <assembly fullname="LimitedInputStats, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="LimitedInputStats.EquipmentController" preserve="all" />
+    <type fullname="LimitedInputStats.EquipmentSlotUI" preserve="all" />
+    <type fullname="LimitedInputStats.EquipmentUIController" preserve="all" />
     <type fullname="LimitedInputStats.InventoryController" preserve="all" />
     <type fullname="LimitedInputStats.InventoryDragItem" preserve="all" />
     <type fullname="LimitedInputStats.InventorySlotUI" preserve="all" />
