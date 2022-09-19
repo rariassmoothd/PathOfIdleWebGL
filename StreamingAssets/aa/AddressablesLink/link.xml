@@ -59,6 +59,8 @@
     <type fullname="LimitedInputStateMachine.PlayerStateMachine" preserve="all" />
   </assembly>
   <assembly fullname="LimitedInputStats, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="LimitedInputStats.CraftUIController" preserve="all" />
+    <type fullname="LimitedInputStats.CraftWindowController" preserve="all" />
     <type fullname="LimitedInputStats.EquipmentController" preserve="all" />
     <type fullname="LimitedInputStats.EquipmentSlotUI" preserve="all" />
     <type fullname="LimitedInputStats.EquipmentUIController" preserve="all" />
@@ -76,6 +78,7 @@
     <type fullname="LimitedInputStats.StatController" preserve="all" />
     <type fullname="LimitedInputStats.TagController" preserve="all" />
     <type fullname="LimitedInputStats.ToolTipUI" preserve="all" />
+    <type fullname="ModalWindowManager" preserve="all" />
     <type fullname="MouseEnterExitEvents" preserve="all" />
     <type fullname="PlayerStatsUI" preserve="all" />
     <type fullname="LimitedInputStats.PassiveNode" preserve="nothing" serialized="true" />
