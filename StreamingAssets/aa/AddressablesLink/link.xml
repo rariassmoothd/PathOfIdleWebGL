@@ -64,6 +64,8 @@
     <type fullname="LimitedInputStats.EquipmentController" preserve="all" />
     <type fullname="LimitedInputStats.EquipmentSlotUI" preserve="all" />
     <type fullname="LimitedInputStats.EquipmentUIController" preserve="all" />
+    <type fullname="LimitedInputStats.GlobalMessageManager" preserve="all" />
+    <type fullname="LimitedInputStats.GlobalMessageUI" preserve="all" />
     <type fullname="LimitedInputStats.InventoryController" preserve="all" />
     <type fullname="LimitedInputStats.InventoryDragItem" preserve="all" />
     <type fullname="LimitedInputStats.InventorySlotUI" preserve="all" />
