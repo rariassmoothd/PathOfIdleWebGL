@@ -76,6 +76,9 @@
     <type fullname="LimitedInputStats.PassiveNodeLine" preserve="all" />
     <type fullname="LimitedInputStats.PassiveNodeUI" preserve="all" />
     <type fullname="LimitedInputStats.PassiveTreeUIController" preserve="all" />
+    <type fullname="LimitedInputStats.SaveLoadManager" preserve="all" />
+    <type fullname="LimitedInputStats.SaveSlotUI" preserve="all" />
+    <type fullname="LimitedInputStats.SaveUIController" preserve="all" />
     <type fullname="LimitedInputStats.SkillController" preserve="all" />
     <type fullname="LimitedInputStats.StatController" preserve="all" />
     <type fullname="LimitedInputStats.TagController" preserve="all" />
