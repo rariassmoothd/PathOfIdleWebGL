@@ -105,7 +105,9 @@
     <type fullname="LimitedInputUtilities.LayoutGroupPositionFix" preserve="all" />
     <type fullname="LimitedInputUtilities.PlayRandomAudio" preserve="all" />
     <type fullname="LimitedInputUtilities.PlayVideo" preserve="all" />
+    <type fullname="LimitedInputUtilities.SkyboxRotation" preserve="all" />
     <type fullname="LimitedInputUtilities.TextureSwapper" preserve="all" />
+    <type fullname="LimitedInputUtilities.TransformRotation" preserve="all" />
     <type fullname="LimitedInputUtilities.UIParticleRenderer" preserve="all" />
     <type fullname="LimitedInputUtilities.VisualSwapper" preserve="all" />
   </assembly>
