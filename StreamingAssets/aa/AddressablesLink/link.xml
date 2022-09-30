@@ -107,11 +107,9 @@
     <type fullname="LimitedInputUtilities.FPSCounter" preserve="all" />
     <type fullname="LimitedInputUtilities.LayoutGroupPositionFix" preserve="all" />
     <type fullname="LimitedInputUtilities.PlayRandomAudio" preserve="all" />
-    <type fullname="LimitedInputUtilities.PlayVideo" preserve="all" />
     <type fullname="LimitedInputUtilities.SkyboxRotation" preserve="all" />
     <type fullname="LimitedInputUtilities.TextureSwapper" preserve="all" />
     <type fullname="LimitedInputUtilities.TransformRotation" preserve="all" />
-    <type fullname="LimitedInputUtilities.UIParticleRenderer" preserve="all" />
     <type fullname="LimitedInputUtilities.VisualSwapper" preserve="all" />
   </assembly>
   <assembly fullname="ThirdParty, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -199,7 +197,6 @@
     <type fullname="UnityEngine.MeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
-    <type fullname="UnityEngine.RenderTexture" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
@@ -237,7 +234,6 @@
     <type fullname="UnityEngine.UI.Image" preserve="all" />
     <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
     <type fullname="UnityEngine.UI.Mask" preserve="all" />
-    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
     <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
     <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
     <type fullname="UnityEngine.UI.Slider" preserve="all" />
@@ -258,9 +254,6 @@
     <type fullname="UnityEngine.Canvas" preserve="all" />
     <type fullname="UnityEngine.CanvasGroup" preserve="all" />
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
-  </assembly>
-  <assembly fullname="UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.Video.VideoPlayer" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextCoreFontEngineModule">
     <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
