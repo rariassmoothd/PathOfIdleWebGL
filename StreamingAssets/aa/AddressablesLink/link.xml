@@ -96,6 +96,7 @@
     <type fullname="LimitedInputUI.GameMenuPanelManager" preserve="all" />
     <type fullname="LimitedInputUI.UIElementSound" preserve="all" />
     <type fullname="LimitedInputUI.UnitHealthBar" preserve="all" />
+    <type fullname="LimitedInputUI.ZoomImage" preserve="all" />
     <type fullname="LimitedInputUI.GameMenuPanelManager/PanelItem" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="LimitedInputUtilities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
