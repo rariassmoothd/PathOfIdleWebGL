@@ -89,6 +89,8 @@
     <type fullname="ModalWindowManager" preserve="all" />
     <type fullname="MouseEnterExitEvents" preserve="all" />
     <type fullname="PlayerStatsUI" preserve="all" />
+    <type fullname="UnitModelPiece" preserve="all" />
+    <type fullname="UnitModelSwapper" preserve="all" />
     <type fullname="LimitedInputStats.PassiveNode" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="LimitedInputUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
