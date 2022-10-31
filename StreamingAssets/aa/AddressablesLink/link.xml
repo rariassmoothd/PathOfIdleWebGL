@@ -85,12 +85,13 @@
     <type fullname="LimitedInputStats.StatController" preserve="all" />
     <type fullname="LimitedInputStats.TagController" preserve="all" />
     <type fullname="LimitedInputStats.ToolTipUI" preserve="all" />
+    <type fullname="LimitedInputStats.UnitModelSwapper" preserve="all" />
+    <type fullname="LimitedInputStats.UnitModelSwapperUI" preserve="all" />
     <type fullname="LimitedInputStats.VFXController" preserve="all" />
     <type fullname="ModalWindowManager" preserve="all" />
     <type fullname="MouseEnterExitEvents" preserve="all" />
     <type fullname="PlayerStatsUI" preserve="all" />
     <type fullname="UnitModelPiece" preserve="all" />
-    <type fullname="UnitModelSwapper" preserve="all" />
     <type fullname="LimitedInputStats.PassiveNode" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="LimitedInputUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
