@@ -115,6 +115,7 @@
     <type fullname="LimitedInputUtilities.TextureSwapper" preserve="all" />
     <type fullname="LimitedInputUtilities.TransformRotation" preserve="all" />
     <type fullname="LimitedInputUtilities.VisualSwapper" preserve="all" />
+    <type fullname="UIObjectScaler" preserve="all" />
   </assembly>
   <assembly fullname="ThirdParty, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.UI.Extensions.UILineRenderer" preserve="all" />
