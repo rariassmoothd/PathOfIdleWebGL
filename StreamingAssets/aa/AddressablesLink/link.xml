@@ -74,6 +74,7 @@
     <type fullname="LimitedInputStats.ItemController" preserve="all" />
     <type fullname="LimitedInputStats.ItemDropController" preserve="all" />
     <type fullname="LimitedInputStats.ItemPickUp" preserve="all" />
+    <type fullname="LimitedInputStats.JsonScriptableObject" preserve="all" />
     <type fullname="LimitedInputStats.ModController" preserve="all" />
     <type fullname="LimitedInputStats.PassiveNodeLine" preserve="all" />
     <type fullname="LimitedInputStats.PassiveNodeUI" preserve="all" />
@@ -92,7 +93,25 @@
     <type fullname="MouseEnterExitEvents" preserve="all" />
     <type fullname="PlayerStatsUI" preserve="all" />
     <type fullname="UnitModelPiece" preserve="all" />
+    <type fullname="LimitedInputStats.ActiveSkill" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.BaseSkill" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.ItemPropertyStatsRange" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.ItemStatRequirements" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.JsonItem" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.JsonMod" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.JsonPassiveNode" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.JsonSkill" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.ModGrantEffect" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.ModSpawnWeight" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.ModStatsRange" preserve="nothing" serialized="true" />
     <type fullname="LimitedInputStats.PassiveNode" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.RangeModifier" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.SkillStats" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.StatDefinition" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.StatModifier" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.StatRequirements" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.StaticSkillInfo" preserve="nothing" serialized="true" />
+    <type fullname="LimitedInputStats.SupportSkill" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="LimitedInputUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="LimitedInputUI.GameMenuButtonAnimation" preserve="all" />
