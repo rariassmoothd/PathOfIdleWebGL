@@ -99,7 +99,6 @@
     <type fullname="LimitedInputStats.ItemStatRequirements" preserve="nothing" serialized="true" />
     <type fullname="LimitedInputStats.JsonItem" preserve="nothing" serialized="true" />
     <type fullname="LimitedInputStats.JsonMod" preserve="nothing" serialized="true" />
-    <type fullname="LimitedInputStats.JsonPassiveNode" preserve="nothing" serialized="true" />
     <type fullname="LimitedInputStats.JsonSkill" preserve="nothing" serialized="true" />
     <type fullname="LimitedInputStats.ModGrantEffect" preserve="nothing" serialized="true" />
     <type fullname="LimitedInputStats.ModSpawnWeight" preserve="nothing" serialized="true" />
