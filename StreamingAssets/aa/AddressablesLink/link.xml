@@ -124,6 +124,7 @@
     <type fullname="DamageText" preserve="all" />
     <type fullname="DamageTextSpawner" preserve="all" />
     <type fullname="DisableGameObject" preserve="all" />
+    <type fullname="LimitedInputUtilities.CameraCullingManager" preserve="all" />
     <type fullname="LimitedInputUtilities.ChromaticVolumeController" preserve="all" />
     <type fullname="LimitedInputUtilities.FaceCamera" preserve="all" />
     <type fullname="LimitedInputUtilities.FPSCounter" preserve="all" />
