@@ -3,15 +3,11 @@
     <type fullname="Cinemachine.CinemachineBrain" preserve="all" />
     <type fullname="Cinemachine.CinemachineComposer" preserve="all" />
     <type fullname="Cinemachine.CinemachineFreeLook" preserve="all" />
-    <type fullname="Cinemachine.CinemachineGroupComposer" preserve="all" />
     <type fullname="Cinemachine.CinemachineImpulseListener" preserve="all" />
     <type fullname="Cinemachine.CinemachineImpulseSource" preserve="all" />
     <type fullname="Cinemachine.CinemachineInputProvider" preserve="all" />
     <type fullname="Cinemachine.CinemachineOrbitalTransposer" preserve="all" />
     <type fullname="Cinemachine.CinemachinePipeline" preserve="all" />
-    <type fullname="Cinemachine.CinemachineStateDrivenCamera" preserve="all" />
-    <type fullname="Cinemachine.CinemachineTargetGroup" preserve="all" />
-    <type fullname="Cinemachine.CinemachineTransposer" preserve="all" />
     <type fullname="Cinemachine.CinemachineVirtualCamera" preserve="all" />
     <type fullname="Cinemachine.AxisState" preserve="nothing" serialized="true" />
     <type fullname="Cinemachine.AxisState/Recentering" preserve="nothing" serialized="true" />
@@ -23,9 +19,6 @@
     <type fullname="Cinemachine.CinemachineImpulseListener/ImpulseReaction" preserve="nothing" serialized="true" />
     <type fullname="Cinemachine.CinemachineImpulseManager/EnvelopeDefinition" preserve="nothing" serialized="true" />
     <type fullname="Cinemachine.CinemachineOrbitalTransposer/Heading" preserve="nothing" serialized="true" />
-    <type fullname="Cinemachine.CinemachineStateDrivenCamera/Instruction" preserve="nothing" serialized="true" />
-    <type fullname="Cinemachine.CinemachineStateDrivenCamera/ParentHash" preserve="nothing" serialized="true" />
-    <type fullname="Cinemachine.CinemachineTargetGroup/Target" preserve="nothing" serialized="true" />
     <type fullname="Cinemachine.CinemachineVirtualCameraBase/TransitionParams" preserve="nothing" serialized="true" />
     <type fullname="Cinemachine.LensSettings" preserve="nothing" serialized="true" />
   </assembly>
@@ -35,7 +28,6 @@
     <type fullname="LimitedInputCombat.Health" preserve="all" />
     <type fullname="LimitedInputCombat.HitHandler" preserve="all" />
     <type fullname="LimitedInputCombat.Projectile" preserve="all" />
-    <type fullname="LimitedInputCombat.Ragdoll" preserve="all" />
     <type fullname="LimitedInputCombat.Target" preserve="all" />
     <type fullname="LimitedInputCombat.Targeter" preserve="all" />
     <type fullname="LimitedInputCombat.WeaponDamage" preserve="all" />
@@ -45,7 +37,6 @@
   </assembly>
   <assembly fullname="LimitedInputControls, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="LimitedInputControls.FreeLookMouseDown" preserve="all" />
-    <type fullname="LimitedInputControls.InputReader" preserve="all" />
   </assembly>
   <assembly fullname="LimitedInputManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="LimitedInputManager.ChallengeManager" preserve="all" />
@@ -56,7 +47,6 @@
   <assembly fullname="LimitedInputStateMachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="LimitedInputStateMachine.EnemyStateMachine" preserve="all" />
     <type fullname="LimitedInputStateMachine.PlayerAiStateMachine" preserve="all" />
-    <type fullname="LimitedInputStateMachine.PlayerStateMachine" preserve="all" />
   </assembly>
   <assembly fullname="LimitedInputStats, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="LimitedInputStats.CraftUIController" preserve="all" />
@@ -132,9 +122,7 @@
     <type fullname="LimitedInputUtilities.LayoutGroupPositionFix" preserve="all" />
     <type fullname="LimitedInputUtilities.PlayRandomAudio" preserve="all" />
     <type fullname="LimitedInputUtilities.SkyboxRotation" preserve="all" />
-    <type fullname="LimitedInputUtilities.TextureSwapper" preserve="all" />
     <type fullname="LimitedInputUtilities.TransformRotation" preserve="all" />
-    <type fullname="LimitedInputUtilities.VisualSwapper" preserve="all" />
     <type fullname="UIObjectScaler" preserve="all" />
   </assembly>
   <assembly fullname="ThirdParty, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -248,10 +236,7 @@
     <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.BoxCollider" preserve="all" />
-    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
     <type fullname="UnityEngine.CharacterController" preserve="all" />
-    <type fullname="UnityEngine.CharacterJoint" preserve="all" />
     <type fullname="UnityEngine.MeshCollider" preserve="all" />
     <type fullname="UnityEngine.Rigidbody" preserve="all" />
     <type fullname="UnityEngine.SphereCollider" preserve="all" />
